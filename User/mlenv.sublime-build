@@ -1,0 +1,5 @@
+{
+    "cmd": ["/home/apandey/python-work/machine/mlenv/bin/python3", "$file"],
+    "selector": "source.python",
+    "file_regex": "^\\s*File \"(...*?)\", line ([0-9]*)"
+}
